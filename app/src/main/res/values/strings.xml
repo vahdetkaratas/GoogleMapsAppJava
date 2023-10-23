@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleMapsAppJava</string>
+    <string name="test">Test</string>
+    <string name="google_maps_key">deneme\n</string>
+    <string name="place_name">Place Name</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="add_place">Add Place</string>
+</resources>
